@@ -1,0 +1,48 @@
+body {
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.container {
+    display: flex;
+}
+
+.col1 {
+    margin-right: 40px;
+}
+
+.main-img{
+    width: 300px;
+    box-shadow: 0px 2px 5px lightgray;
+}
+
+.breadcrumb {
+    color: #565959;
+    font-size: 12px;
+}
+
+
+.title {
+    font-weight: lighter;
+    margin-top: 0px;
+}
+
+a{
+    color: #007185;
+}
+
+.col2{
+    max-width: 700px;
+}
+
+.rating {
+    width: 120px;
+}
+
+.description {
+    line-height: 1.4;
+}
+
+
+
+
